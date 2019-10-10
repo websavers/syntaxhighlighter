@@ -1,16 +1,14 @@
 === SyntaxHighlighter Evolved ===
 Contributors: Viper007Bond, automattic
 Donate link: http://www.viper007bond.com/wordpress-plugins/syntaxhighlighter/donate/
-Tags: code, sourcecode, block, php, xhtml, html, css, WordPress.com
-Requires at least: 4.2.3
-Tested up to: 5.0
+Tags: code, sourcecode, php, xhtml, html, css, WordPress.com
+Requires at least: 3.3
+Tested up to: 4.1
 Stable tag: trunk
 
 Easily post syntax-highlighted code to your site without having to modify the code at all. As seen on WordPress.com.
 
 == Description ==
-
-*Now with support for the new block editor in WordPress 5.0!*
 
 SyntaxHighlighter Evolved allows you to easily post syntax-highlighted code to your site without losing its formatting or making any manual changes. It uses the [SyntaxHighlighter JavaScript package by Alex Gorbatchev](http://alexgorbatchev.com/wiki/SyntaxHighlighter).
 
@@ -273,3 +271,8 @@ Localizations:
 = Version 1.0.0 =
 
 * Initial release!
+
+== Upgrade Notice ==
+
+= 3.1.6 =
+Important security update.
